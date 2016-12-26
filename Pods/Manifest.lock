@@ -1,0 +1,40 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CCDropDownMenus (0.1.2)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Reachability (3.2)
+  - REFrostedViewController (2.4.8)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CCDropDownMenus
+  - FMDB
+  - Reachability
+  - REFrostedViewController
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CCDropDownMenus: ee65b63286a16354907fdde49c40c1817f463470
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+
+PODFILE CHECKSUM: c4ac769ffeacc21b24c6ae6621653e1189a9a486
+
+COCOAPODS: 1.1.1
